@@ -70,5 +70,5 @@ I am craft.chai
 
 [website]: https://tamimehsan.github.io/
 [instagram]: https://instagram.com/tamim.ehsan
-[facebook]: https://www.facebook.com/tamimul.ehsan.9/
+[facebook]: https://www.facebook.com/profile.php?id=100062871093875
 [codeforces]:https://codeforces.com/profile/TamimEhsan
