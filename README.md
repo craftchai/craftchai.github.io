@@ -15,7 +15,7 @@ I am craft.chai
  ## Connect with me:
 
 [<img align="left" alt="craftchai" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/zhihu.svg" />][zhihu]
-<!-- [<img align="left" alt="craftchai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+[<img align="left" alt="craftchai | bilibili" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/bilibili.svg" />][bilibili]
 [<img align="left" alt="craftchai | Facebook" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/facebook.svg" />][facebook]
 [<img align="left" alt="craftchai | weibo" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/weibo.svg" />][weibo]
 [<img align="left" alt="craftchai | douyin" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/douyin.svg" />][douyin]
@@ -72,3 +72,4 @@ I am craft.chai
 [weibo]: https://weibo.com/u/2235348650
 [facebook]: https://www.facebook.com/profile.php?id=100062871093875
 [douyin]:https://www.douyin.com/user/MS4wLjABAAAAK7gYuuQnFqZJPHJ7nlz2Kwx1WNC95bzXD030gEGIUtlK4rrQ4R2WPCB3teF332x8
+[bilibili]:https://m.bilibili.com/space/1784809831
