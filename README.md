@@ -15,7 +15,7 @@ I am craft.chai
  ## Connect with me:
 
 [<img align="left" alt="craftchai" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/zhihu.svg" />][zhihu]
-[<img align="left" alt="craftchai | bilibili" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/bilibili.svg" />][bilibili]
+[<img align="left" alt="craftchai | bilibili" width="22px" src="https://user-images.githubusercontent.com/113883304/191067417-1e54e08a-4bd6-4d9f-b914-1024da4e218c.svg" />][bilibili]
 [<img align="left" alt="craftchai | Facebook" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/facebook.svg" />][facebook]
 [<img align="left" alt="craftchai | weibo" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/weibo.svg" />][weibo]
 [<img align="left" alt="craftchai | douyin" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/douyin.svg" />][douyin]
