@@ -32,8 +32,7 @@ I am craft.chai
 
 ## Tools:
 
-*  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-*  [https://www.zhihu.com/people/craft-97](https://www.zhihu.com/people/craft-97)
+*  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)   [https://www.zhihu.com/people/craft-97](https://www.zhihu.com/people/craft-97)
 *  ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
