@@ -8,9 +8,7 @@
 I am craft.chai
 
 - 💻 I ~like~ **love** Internet
-- 🔭 I’m always had a burning ambition to start his own business. . Keep an eye for it
-- 🌱 i'm going to have to knuckle down to some serious study
-- 👯 I'm not afraid of going out on a limb and doing things that no one has tried before
+- 🔭 I'm not afraid of going out on a limb and doing things that no one has tried before
 
 ### Connect with me
 
