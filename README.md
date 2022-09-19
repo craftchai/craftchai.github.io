@@ -29,6 +29,14 @@ I am craft.chai
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 
+
+### 📘 Latest Blog Posts:
+- [The Visual Ritual](https://spotle.ai/feeddetails/THE-VISUAL-RITUAL-/7563)
+- [How to Lie with Statistics](https://spotle.ai/feeddetails/How-To-Lie-With-Statistics/7452)
+- [Monty Python's Flying Circus](https://spotle.ai/feeddetails/Monty-Python-s-Flying-Circus/4178)
+- [Types of Clustering Techniques](https://spotle.ai/feeddetails/TYPES-OF-CLUSTERING-TECHNIQUES/3390)
+
+
 ## Live Projects
 
 [![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
@@ -38,10 +46,11 @@ I am craft.chai
 <img align="left" alt="craftchai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=craftchai&show_icons=true" />    
 
 
-⭐️ From [craftchai](https://github.com/craftchai)
-
 [zhihu]: https://www.zhihu.com/people/craft-97
 [weibo]: https://weibo.com/u/2235348650
 [facebook]: https://www.facebook.com/profile.php?id=100062871093875
 [douyin]:https://www.douyin.com/user/MS4wLjABAAAAK7gYuuQnFqZJPHJ7nlz2Kwx1WNC95bzXD030gEGIUtlK4rrQ4R2WPCB3teF332x8
-[bilibili]:https://m.bilibili.com/space/1784809831
+[bilibili]:https://m.bilibili.com/space/1784809831  
+
+
+⭐️ From [craftchai](https://github.com/craftchai)
