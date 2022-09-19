@@ -1,4 +1,4 @@
-![Cover](https://github.com/craftchai/craftchai/blob/main/Assets/banner2.jpg)
+![Cover](https://github.com/craftchai/craftchai.github.io/blob/main/banner2.jpg)
 
 
   [![HitCount](https://hits.dwyl.com/craftchai/craftchai/craftchaigithubio.svg?style=flat-square)](http://hits.dwyl.com/craftchai/craftchai/craftchaigithubio)
