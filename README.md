@@ -1,7 +1,7 @@
 ![Cover](https://github.com/craftchai/craftchai.github.io/blob/main/Assets/banner2.png)
 
 
-[![HitCount](http://hits.dwyl.com/TamimEhsan/TamimEhsan.svg)](http://hits.dwyl.com/TamimEhsan/TamimEhsan)
+  [![HitCount](https://hits.dwyl.com/craftchai/craftchai/craftchaigithubio.svg?style=flat-square)](http://hits.dwyl.com/craftchai/craftchai/craftchaigithubio)
  <img src="https://komarev.com/ghpvc/?username=TamimEhsan">
 
 ### Hi there 👋
