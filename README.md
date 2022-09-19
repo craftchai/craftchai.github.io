@@ -18,7 +18,7 @@ I am craft.chai
 <!-- [<img align="left" alt="craftchai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 [<img align="left" alt="craftchai | Facebook" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/facebook.svg" />][facebook]
 [<img align="left" alt="craftchai | weibo" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/weibo.svg" />][weibo]
-[<img align="left" alt="craftchai | douyin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][douyin]
+[<img align="left" alt="craftchai | douyin" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/douyin.svg" />][douyin]
 
 <br /> 
 
