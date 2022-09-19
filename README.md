@@ -12,7 +12,7 @@ I am craft.chai
 - 🌱 i'm going to have to knuckle down to some serious study
 - 👯 I'm not afraid of going out on a limb and doing things that no one has tried before
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="craftchai | zhihu" width="22px" src="https://user-images.githubusercontent.com/113883304/191068392-47e44d18-43d3-46b9-82e3-d6adfcce8ebb.svg" />][zhihu]
 [<img align="left" alt="craftchai | bilibili" width="22px" src="https://user-images.githubusercontent.com/113883304/191067417-1e54e08a-4bd6-4d9f-b914-1024da4e218c.svg" />][bilibili]
