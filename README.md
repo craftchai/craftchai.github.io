@@ -22,7 +22,7 @@ I am craft.chai
 
 ## Languages
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)[https://www.zhihu.com/people/craft-97](https://www.zhihu.com/people/craft-97)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -33,6 +33,7 @@ I am craft.chai
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+[https://www.zhihu.com/people/craft-97](https://www.zhihu.com/people/craft-97)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
