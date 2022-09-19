@@ -48,7 +48,9 @@ I am craft.chai
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craftchai)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-*  ## ⭐️ From [craftchai](https://github.com/craftchai)
+<br /> 
+
+⭐️ From [craftchai](https://github.com/craftchai)
 
 [zhihu]: https://www.zhihu.com/people/craft-97
 [weibo]: https://weibo.com/u/2235348650
