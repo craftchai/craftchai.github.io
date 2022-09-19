@@ -1,4 +1,4 @@
-![Cover](https://github.com/TamimEhsan/TamimEhsan/blob/master/Assets/banner2.jpg)
+![Cover](https://github.com/craftchai/craftchai.github.io/blob/main/Assets/banner2.png)
 
 
 [![HitCount](http://hits.dwyl.com/TamimEhsan/TamimEhsan.svg)](http://hits.dwyl.com/TamimEhsan/TamimEhsan)
