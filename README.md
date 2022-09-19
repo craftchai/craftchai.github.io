@@ -2,16 +2,15 @@
 
 
   [![HitCount](https://hits.dwyl.com/craftchai/craftchai/craftchaigithubio.svg?style=flat-square)](http://hits.dwyl.com/craftchai/craftchai/craftchaigithubio)
- <img src="https://komarev.com/ghpvc/?username=TamimEhsan">
 
 ### Hi there 👋
 
-I am Md. Tamimul Ehsan. But you will find me everywhere with handle name Tamim Ehsan. I am an undergraduate student at BUET CSE.
+I am craft.chai
 
-- 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on a educational platform. Keep an eye for it.
-- 🌱 I’m currently learning Node backend
-- 👯 I’m looking to collaborate on opensource and group projects.
+- 💻 I ~like~ **love** Internet
+- 🔭 I’m always had a burning ambition to start his own business. . Keep an eye for it
+- 🌱 i'm going to have to knuckle down to some serious study
+- 👯 I'm not afraid of going out on a limb and doing things that no one has tried before
 
  ## Connect with me:
 
