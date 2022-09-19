@@ -44,8 +44,7 @@ I am craft.chai
 
 ## Github Overview
 
-<img align="left" alt="craftchai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=craftchai&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craftchai)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="left" alt="craftchai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=craftchai&show_icons=true" />    
 
 
 ⭐️ From [craftchai](https://github.com/craftchai)
