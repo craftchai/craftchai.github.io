@@ -15,10 +15,10 @@ I am craft.chai
  ## Connect with me:
 
 [<img align="left" alt="craftchai" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/zhihu.svg" />][zhihu]
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+<!-- [<img align="left" alt="craftchai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 [<img align="left" alt="craftchai | Facebook" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/facebook.svg" />][facebook]
-[<img align="left" alt="craftchai | weibo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][weibo]
-[<img align="left" alt="TamimEhsan | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+[<img align="left" alt="craftchai | weibo" width="22px" src="https://github.com/craftchai/craftchai.github.io/blob/main/Assets/weibo.svg" />][weibo]
+[<img align="left" alt="craftchai | douyin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][douyin]
 
 <br /> 
 
@@ -71,4 +71,4 @@ I am craft.chai
 [zhihu]: https://www.zhihu.com/people/craft-97
 [weibo]: https://weibo.com/u/2235348650
 [facebook]: https://www.facebook.com/profile.php?id=100062871093875
-[codeforces]:https://codeforces.com/profile/TamimEhsan
+[douyin]:https://www.douyin.com/user/MS4wLjABAAAAK7gYuuQnFqZJPHJ7nlz2Kwx1WNC95bzXD030gEGIUtlK4rrQ4R2WPCB3teF332x8
