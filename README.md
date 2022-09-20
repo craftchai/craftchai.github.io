@@ -1,9 +1,9 @@
-![kF](https://img.shields.io/badge/Keep%20growing%EF%BC%8C-Fuck%20everything%20else.-brightgreen)
 
 ![Cover](https://user-images.githubusercontent.com/113883304/191066028-32adb7d1-3a4a-4c21-9b4c-0ca2e691e242.jpg)
 
+![kF](https://img.shields.io/badge/Keep%20growing%EF%BC%8C-Fuck%20everything%20else.-brightgreen)
 
-  [![HitCount](https://hits.dwyl.com/craftchai/craftchai/craftchaigithubio.svg?style=flat-square)](http://hits.dwyl.com/craftchai/craftchai/craftchaigithubio)
+[![HitCount](https://hits.dwyl.com/craftchai/craftchai/craftchaigithubio.svg?style=flat-square)](http://hits.dwyl.com/craftchai/craftchai/craftchaigithubio)
 
 ### Hi there 👋
 
