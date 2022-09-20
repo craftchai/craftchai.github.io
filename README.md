@@ -17,6 +17,8 @@ I am craft.chai
 [<img align="left" alt="craftchai | Facebook" width="22px" src="https://user-images.githubusercontent.com/113883304/191067954-28ec718d-a98c-4d22-bdbe-235c94d0cd50.svg" />][facebook]
 [<img align="left" alt="craftchai | weibo" width="22px" src="https://user-images.githubusercontent.com/113883304/191068128-b3323231-1857-4b60-89c9-ef2f6f382bfb.svg" />][weibo]
 [<img align="left" alt="craftchai | douyin" width="22px" src="https://user-images.githubusercontent.com/113883304/191067769-574a2112-21c1-4735-b909-71ff8e6164bd.svg" />][douyin]
+[<img align="left" alt="craftchai | twitter" width="22px" src="https://user-images.githubusercontent.com/113883304/191186163-20f01e58-8c24-4e80-98ba-6592376589d9.svg" />][twitter]
+
 
 <br /> 
 
@@ -50,7 +52,8 @@ I am craft.chai
 [weibo]: https://weibo.com/u/2235348650
 [facebook]: https://www.facebook.com/profile.php?id=100062871093875
 [douyin]:https://www.douyin.com/user/MS4wLjABAAAAK7gYuuQnFqZJPHJ7nlz2Kwx1WNC95bzXD030gEGIUtlK4rrQ4R2WPCB3teF332x8
-[bilibili]:https://m.bilibili.com/space/1784809831  
+[bilibili]:https://m.bilibili.com/space/1784809831
+[twitter]:https://twitter.com/craftchai3
 
 
 ⭐️ From [craftchai](https://github.com/craftchai)  
