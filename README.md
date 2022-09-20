@@ -26,10 +26,10 @@ I am craft.chai
 ## Tools:
 
 [![telegramgroup](https://img.shields.io/badge/telegram-group-green)](https://fandgroup.github.io)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
+![ProductDesign](https://img.shields.io/badge/Product-Design-red) 
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) 
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <br />
 
 
 ### 📘 Latest Blog Posts:
