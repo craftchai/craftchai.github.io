@@ -28,7 +28,7 @@ I am craft.chai
 [![telegramgroup](https://img.shields.io/badge/telegram-group-green)](https://fandgroup.github.io)
 ![ProductDesign](https://img.shields.io/badge/Product-Design-red) 
 ![Marketing](https://img.shields.io/badge/-Markerting-blue) 
-![Coder](https://img.shields.io/badge/-Coder-yellowgreen)
+![Software Engineer](https://img.shields.io/badge/Software-Engineer-yellowgreen)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <br />
 
 
