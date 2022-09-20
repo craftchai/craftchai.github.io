@@ -25,11 +25,11 @@ I am craft.chai
 
 ## Tools:
 
-[![telegramgroup](https://img.shields.io/badge/telegram-group-green)](https://fandgroup.github.io)
+
 ![ProductDesign](https://img.shields.io/badge/Product-Design-red) 
 ![Marketing](https://img.shields.io/badge/-Markerting-blue) 
-![Software Engineer](https://img.shields.io/badge/Software-Engineer-yellowgreen)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) <br />
+![Software Engineer](https://img.shields.io/badge/Software-Engineer-yellowgreen) <br />
+[![telegramgroup](https://img.shields.io/badge/telegram-group-green)](https://fandgroup.github.io) <br />
 
 
 ### 📘 Latest Blog Posts:
