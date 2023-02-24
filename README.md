@@ -34,10 +34,9 @@ I am craft.chai
 
 
 ### 📘 Latest Blog Posts:
-- [The Visual Ritual](https://spotle.ai/feeddetails/THE-VISUAL-RITUAL-/7563)
-- [How to Lie with Statistics](https://spotle.ai/feeddetails/How-To-Lie-With-Statistics/7452)
-- [Monty Python's Flying Circus](https://spotle.ai/feeddetails/Monty-Python-s-Flying-Circus/4178)
-- [Types of Clustering Techniques](https://spotle.ai/feeddetails/TYPES-OF-CLUSTERING-TECHNIQUES/3390)
+- [魔法目录](https://github.com/craftchai/magic-Internet)
+- [emby公益服](https://github.com/craftchai/emby-free-server)
+- [IPTV源](https://github.com/craftchai/IPTV)
 
 
 ## Live Projects
