@@ -34,9 +34,10 @@ I am craft.chai
 
 
 ### 📘 Latest Blog Posts:
-- [魔法目录](https://github.com/craftchai/magic-Internet)
+- [魔法使用目录](https://github.com/craftchai/magic-Internet)
 - [emby公益服](https://github.com/craftchai/emby-free-server)
 - [IPTV源](https://github.com/craftchai/IPTV)
+- [TVBox接口](https://github.com/craftchai/TVBox)
 
 
 ## Live Projects
