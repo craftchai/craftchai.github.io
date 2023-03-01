@@ -40,10 +40,12 @@ I am craft.chai
 - [TVBox接口](https://github.com/craftchai/TVBox)
 
 
+
 ## 支持一下:
 
-[<img align="left" alt="craftchai | wechat" width="22px" src="[https://user-images.githubusercontent.com/113883304/191068392-47e44d18-43d3-46b9-82e3-d6adfcce8ebb.svg](https://user-images.githubusercontent.com/113883304/222075813-20623f93-ae9a-4491-bf07-185cd3569bf9.jpg)" />][wechat]
-[<img align="left" alt="craftchai | wechat2" width="22px" src="[https://user-images.githubusercontent.com/113883304/191067417-1e54e08a-4bd6-4d9f-b914-1024da4e218c.svg](https://user-images.githubusercontent.com/113883304/222076265-7787589a-4b26-4455-9211-69d1ba55ab23.jpg)" />][wechat2]
+
+[<img align="left" alt="craftchai | wechat" width="22px" src="https://user-images.githubusercontent.com/113883304/222075813-20623f93-ae9a-4491-bf07-185cd3569bf9.jpg" />][wechat]
+[<img align="left" alt="craftchai | wechat2" width="22px" src="https://user-images.githubusercontent.com/113883304/222076265-7787589a-4b26-4455-9211-69d1ba55ab23.jpg" />][wechat2]
 
 
 
