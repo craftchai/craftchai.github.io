@@ -51,12 +51,18 @@ I am craft.chai
 
 
 
-## see u
+## 注意事项：
 
 
-所有内容均为交流学习使用，请勿商用，谢谢支持
+所有内容均为交流学习使用，请勿商用，谢谢支持！
 
-  
+All content is for communication and learning. Please do not use it for business. Thank you for your support！
+
+<br /> 
+
+
+
+
 
 ## Live Projects
 
