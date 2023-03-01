@@ -22,16 +22,6 @@ I am craft.chai
 
 
 
-
-
-
-
-
-
-
-
-
-
 <br /> 
 
 
@@ -58,7 +48,23 @@ I am craft.chai
 <img align="left" alt="craftchai | wechat" width="220px" src="https://user-images.githubusercontent.com/113883304/222075813-20623f93-ae9a-4491-bf07-185cd3569bf9.jpg" />
 <img align="left" alt="craftchai | wechat2" width="220px" src="https://user-images.githubusercontent.com/113883304/222076265-7787589a-4b26-4455-9211-69d1ba55ab23.jpg" />
 
+
+
 <br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
