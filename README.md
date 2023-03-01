@@ -40,6 +40,13 @@ I am craft.chai
 - [TVBox接口](https://github.com/craftchai/TVBox)
 
 
+## 支持一下:
+
+[<img align="left" alt="craftchai | wechat" width="220px" src="https://github.com/craftchai/craftchai.github.io/issues/8" />][wechat]
+[<img align="left" alt="craftchai | wechat2" width="220px" src="https://github.com/craftchai/craftchai.github.io/issues/9" />][wechat2]
+
+
+
 ## Live Projects
 
 [![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
