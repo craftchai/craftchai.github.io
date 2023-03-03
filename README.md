@@ -39,7 +39,8 @@ I am craft.chai
 - [emby公益服](https://github.com/craftchai/emby-free-server)
 - [IPTV源](https://github.com/craftchai/IPTV)
 - [TVBox接口](https://github.com/craftchai/TVBox)
-
+- [奈飞解锁教程](https://github.com/craftchai/Netflix-unlock)
+- [安卓制作旁路由](https://github.com/craftchai/Android-Bypass-Gateway)
 
 
 ## 支持一下:
