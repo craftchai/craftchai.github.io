@@ -41,6 +41,7 @@ I am craft.chai
 - [IPTV源](https://github.com/craftchai/IPTV)
 - [TVBox接口](https://github.com/craftchai/TVBox)
 - [奈飞解锁教程](https://github.com/craftchai/Netflix-unlock)
+- [奈飞HBOMax等流媒体翻译](https://github.com/craftchai/Dualsub)
 - [安卓制作旁路由](https://github.com/craftchai/Android-Bypass-Gateway)
 
 
